@@ -4,6 +4,3 @@ var animalUpperCased = animal.toUpperCase();
 var textCharsAfter = text.replace('Papugi', animalUpperCased);
 
 console.log(textCharsAfter.substring(0,45));
-
-
-
