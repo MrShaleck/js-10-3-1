@@ -3,4 +3,4 @@ var animal = 'Zielone słonie';
 var animalUpperCased = animal.toUpperCase();
 var textCharsAfter = text.replace('Papugi', animalUpperCased);
 
-console.log(textCharsAfter.substring(0,45));
+console.log(textCharsAfter.substring(0, textCharsAfter.length / 2));
